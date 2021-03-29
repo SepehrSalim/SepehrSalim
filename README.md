@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ Deep Learning/ Machine Learning
 - 🌱 I’m currently learning Stock Market & Finance
 - 💞️ I’m looking to collaborate on Machine Learning & Deep Learning for Finance
-- 📫 How to reach me GitHub@SepehrSalim :)
+- 📫 How to reach me: GitHub.com/SepehrSalim or Sepehr.Salim@gmail.com 
 
 <!---
 SepehrSalim/SepehrSalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
